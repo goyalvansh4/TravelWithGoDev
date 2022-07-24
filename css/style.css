@@ -444,9 +444,7 @@ background: #fff;
     html{
         font-size: 50%;
     }
-   .container{
-    max-width: 500px;
-   }
+   
     .navbar .nav-items, .navbar .logo{
         float: none;
         display: block;
